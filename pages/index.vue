@@ -22,7 +22,7 @@
           :fSize="18"
           :imgUrl="'/img/common/school-art.webp'"
           :text="'EYS-STYLEが運営する<br>Enjoy Your Life 実現のためのスクール'"
-          class="pt-[65px] pb-[45px] lg:hidden"
+          class="pt-[65px] pb-[45px] lg:hidden w-[197px] h-[40px]"
         />
         <AtomsArtTitle
           :height="62"
@@ -30,7 +30,7 @@
           :fSize="40"
           :imgUrl="'/img/common/school-art.webp'"
           :text="'EYS-STYLEが運営する<br>Enjoy Your Life 実現のためのスクール'"
-          class="pt-[160px] pb-[75px] hidden lg:block"
+          class="pt-[160px] pb-[75px] hidden lg:block lg:w-[307px] lg:h-[62px]"
         />
         <div ref="section1">
           <LazyOrganismsSchool v-if="show1" />
@@ -41,7 +41,7 @@
           />
         </div>
         <img
-          class="w-[150px] m-auto hidden lg:block pb-[40px] pt-[110px]"
+          class="w-[152px] h-[43px] m-auto hidden lg:block pb-[40px] pt-[110px]"
           src="/img/common/system-art.png"
           alt="アートタイトル"
           loading="lazy"
@@ -57,7 +57,7 @@
           <img
             src="/img/common/community-title.svg"
             alt="community"
-            class="w-[443px] mx-auto max-lg:w-[275px]"
+            class="w-[274px] h-[54px] lg:w-[443px] lg:h-[87px] mx-auto"
           />
           <div ref="section3">
             <LazyOrganismsCommunity v-if="show3" />
@@ -65,7 +65,7 @@
         </div>
       </div>
     </div>
-    <footer class="bg-[#F9F9F9]">
+    <footer class="bg-[#F9F9F9]" ref="footer">
       <img
         class="w-[118px] m-auto pt-[30px] pb-[50px] lg:w[175px] lg:pt-[55px] lg:pb-[80px]"
         src="/img/common/main-logo.png"
@@ -73,8 +73,10 @@
         loading="lazy"
         decoding="async"
       />
-      <LazyMoleculesFooterNav />
-      <LazyMoleculesFooterOutsites />
+      <div v-if="showFooter">
+        <LazyMoleculesFooterNav />
+        <LazyMoleculesFooterOutsites />
+      </div>
     </footer>
   </div>
 </template>
