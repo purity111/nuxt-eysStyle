@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="227" height="228" viewBox="0 0 227 228">
+  <defs>
+    <filter id="Ellipse_75" x="0" y="18" width="210" height="210" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="chart" transform="translate(-310.01 -2087)">
+    <g id="base">
+      <g transform="matrix(1, 0, 0, 1, 310.01, 2087)" filter="url(#Ellipse_75)">
+        <g id="Ellipse_75-2" data-name="Ellipse 75" transform="translate(15 28)" fill="#fff" stroke="#eee" stroke-width="1">
+          <circle cx="90" cy="90" r="90" stroke="none"/>
+          <circle cx="90" cy="90" r="89.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Ellipse_76" data-name="Ellipse 76" transform="translate(343.01 2133)" fill="rgba(254,153,204,0.2)" stroke="#fff" stroke-width="1">
+        <circle cx="72" cy="72" r="72" stroke="none"/>
+        <circle cx="72" cy="72" r="71.5" fill="none"/>
+      </g>
+      <g id="Ellipse_77" data-name="Ellipse 77" transform="translate(360.01 2150)" fill="rgba(254,153,204,0.3)" stroke="#fff" stroke-width="1">
+        <circle cx="55" cy="55" r="55" stroke="none"/>
+        <circle cx="55" cy="55" r="54.5" fill="none"/>
+      </g>
+      <g id="Ellipse_78" data-name="Ellipse 78" transform="translate(377.01 2167)" fill="rgba(254,153,204,0.4)" stroke="#fff" stroke-width="1">
+        <circle cx="38" cy="38" r="38" stroke="none"/>
+        <circle cx="38" cy="38" r="37.5" fill="none"/>
+      </g>
+      <circle id="Ellipse_79" data-name="Ellipse 79" cx="21" cy="21" r="21" transform="translate(394.01 2184)" fill="#f9c"/>
+    </g>
+    <g id="data">
+      <g id="Path_5945" data-name="Path 5945" transform="translate(347.01 2133)" fill="none">
+        <path d="M68.23,17.384l84.982,28.13L110.1,130.4H26.726L.482,50.694Z" stroke="none"/>
+        <path d="M 68.37796783447266 19.53933715820312 L 2.926223754882812 51.72152709960938 L 28.17267608642578 128.3968505859375 L 108.8683853149414 128.3968505859375 L 150.3757476806641 46.68151092529297 L 68.37796783447266 19.53933715820312 M 68.22972869873047 17.383544921875 L 153.212158203125 45.51367950439453 L 110.095703125 130.3968505859375 L 26.72557830810547 130.3968505859375 L 0.482421875 50.69445037841797 L 68.22972869873047 17.383544921875 Z" stroke="none" fill="#fe99cc"/>
+      </g>
+      <circle id="Ellipse_80" data-name="Ellipse 80" cx="3.5" cy="3.5" r="3.5" transform="translate(412.01 2147)" fill="#f9c"/>
+      <circle id="Ellipse_81" data-name="Ellipse 81" cx="3.5" cy="3.5" r="3.5" transform="translate(496.01 2175)" fill="#f9c"/>
+      <circle id="Ellipse_82" data-name="Ellipse 82" cx="3.5" cy="3.5" r="3.5" transform="translate(454.01 2259)" fill="#f9c"/>
+      <circle id="Ellipse_83" data-name="Ellipse 83" cx="3.5" cy="3.5" r="3.5" transform="translate(371.01 2259)" fill="#f9c"/>
+      <circle id="Ellipse_84" data-name="Ellipse 84" cx="3.5" cy="3.5" r="3.5" transform="translate(345.01 2180)" fill="#f9c"/>
+    </g>
+    <text id="クラスコミュニティの_盛り上がり" data-name="クラスコミュニティの
+盛り上がり" transform="translate(415.01 2097)" font-size="10" font-family="YuGothic-Regular, Yu Gothic"><tspan x="-50" y="0">クラスコミュニティの</tspan><tspan x="-25" y="12">盛り上がり</tspan></text>
+    <text id="コスパ" transform="translate(325.01 2160)" font-size="10" font-family="YuGothic-Regular, Yu Gothic"><tspan x="-15" y="0">コスパ</tspan></text>
+    <text id="楽しさ_あるいは深さ" data-name="楽しさ
+あるいは深さ" transform="translate(507.01 2150)" font-size="10" font-family="YuGothic-Regular, Yu Gothic"><tspan x="-15" y="0">楽しさ</tspan><tspan x="-30" y="12">あるいは深さ</tspan></text>
+    <text id="講師の人柄" transform="translate(493.01 2296)" font-size="10" font-family="YuGothic-Regular, Yu Gothic"><tspan x="-25" y="0">講師の人柄</tspan></text>
+    <text id="カリキュラム" transform="translate(347.01 2296)" font-size="10" font-family="YuGothic-Regular, Yu Gothic"><tspan x="-30" y="0">カリキュラム</tspan></text>
+  </g>
+</svg>

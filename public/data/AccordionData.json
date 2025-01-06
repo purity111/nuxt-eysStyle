@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "title": "関東",
+    "children": [
+      {
+        "id": 1,
+        "title": "東京都",
+        "contents": [
+          {
+            "imgUrl": "/img/common/tokyo1.webp",
+            "title": "銀座スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分"
+          },
+          {
+            "imgUrl": "/img/common/tokyo2.webp",
+            "title": "新宿スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分"
+          },
+          {
+            "imgUrl": "/img/common/tokyo3.webp",
+            "title": "渋谷スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分"
+          },
+          {
+            "imgUrl": "/img/common/tokyo4.webp",
+            "title": "吉祥寺スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分"
+          },
+          {
+            "imgUrl": "/img/common/tokyo5.webp",
+            "title": "池袋スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分"
+          },
+          {
+            "imgUrl": "/img/common/tokyo6.webp",
+            "title": "上野スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分"
+          },
+          {
+            "imgUrl": "/img/common/tokyo6.webp",
+            "title": "立川スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分"
+          },
+          {
+            "imgUrl": "/img/common/tokyo8.webp",
+            "title": "町田スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分"
+          },
+          {
+            "imgUrl": "/img/common/tokyo9.webp",
+            "title": "蒲田スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分",
+            "isEnd": true
+          },
+          {
+            "imgUrl": "/img/common/tokyo10.webp",
+            "title": "自由が丘スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分",
+            "isEnd": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "埼玉県",
+        "contents": [
+          {
+            "imgUrl": "/img/common/tokyo10.webp",
+            "title": "自由が丘スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分",
+            "isOnlyOne": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "千葉県",
+        "contents": [
+          {
+            "imgUrl": "/img/common/tokyo10.webp",
+            "title": "自由が丘スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分",
+            "isOnlyOne": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "関東",
+    "children": [
+      {
+        "id": 1,
+        "title": "東京都",
+        "contents": [
+          {
+            "imgUrl": "/img/common/tokyo1.webp",
+            "title": "銀座スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分"
+          },
+          {
+            "imgUrl": "/img/common/tokyo2.webp",
+            "title": "新宿スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分"
+          },
+          {
+            "imgUrl": "/img/common/tokyo3.webp",
+            "title": "渋谷スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分"
+          },
+          {
+            "imgUrl": "/img/common/tokyo4.webp",
+            "title": "吉祥寺スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分"
+          },
+          {
+            "imgUrl": "/img/common/tokyo5.webp",
+            "title": "池袋スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分"
+          },
+          {
+            "imgUrl": "/img/common/tokyo6.webp",
+            "title": "上野スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分"
+          },
+          {
+            "imgUrl": "/img/common/tokyo6.webp",
+            "title": "立川スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分"
+          },
+          {
+            "imgUrl": "/img/common/tokyo8.webp",
+            "title": "町田スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分"
+          },
+          {
+            "imgUrl": "/img/common/tokyo9.webp",
+            "title": "蒲田スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分",
+            "isEnd": true
+          },
+          {
+            "imgUrl": "/img/common/tokyo10.webp",
+            "title": "自由が丘スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分",
+            "isEnd": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "埼玉県",
+        "contents": [
+          {
+            "imgUrl": "/img/common/tokyo10.webp",
+            "title": "自由が丘スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分",
+            "isOnlyOne": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "千葉県",
+        "contents": [
+          {
+            "imgUrl": "/img/common/tokyo10.webp",
+            "title": "自由が丘スタジオ",
+            "content": "有楽町駅京橋口から徒歩5分",
+            "isOnlyOne": true
+          }
+        ]
+      }
+    ]
+  }
+]

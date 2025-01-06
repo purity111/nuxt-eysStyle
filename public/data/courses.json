@@ -1,0 +1,732 @@
+[
+  {
+    "title": "色々試せる、1dayワークショップ",
+    "items": [
+      {
+        "kind": "Business",
+        "banner": "/img/pc/onoff-slider1.webp",
+        "title": "ビジネス基礎講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-4.svg",
+        "graph": "/img/pc/graph-1.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      },
+      {
+        "kind": "Programming",
+        "banner": "/img/pc/onoff-slider2.avif",
+        "title": "初めてのプログラミング講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-5.svg",
+        "graph": "/img/pc/graph-2.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      },
+      {
+        "kind": "Investment",
+        "banner": "/img/pc/onoff-slider3.webp",
+        "title": "イチから始める株式投資講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-3.svg",
+        "graph": "/img/pc/graph-2.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      },
+      {
+        "kind": "Art&Design",
+        "banner": "/img/pc/onoff-slider4.webp",
+        "title": "初心者向け油絵デビュー講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-5.svg",
+        "graph": "/img/pc/graph-3.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      },
+      {
+        "kind": "Wine",
+        "banner": "/img/pc/onoff-slider5.avif",
+        "title": "ワインテイスティング講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-2.svg",
+        "graph": "/img/pc/graph-2.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      },
+      {
+        "kind": "Business",
+        "banner": "/img/pc/onoff-slider1.webp",
+        "title": "ビジネス基礎講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-4.svg",
+        "graph": "/img/pc/graph-1.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      },
+      {
+        "kind": "Programming",
+        "banner": "/img/pc/onoff-slider2.avif",
+        "title": "初めてのプログラミング講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-5.svg",
+        "graph": "/img/pc/graph-2.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      },
+      {
+        "kind": "Investment",
+        "banner": "/img/pc/onoff-slider3.webp",
+        "title": "イチから始める株式投資講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-3.svg",
+        "graph": "/img/pc/graph-2.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      },
+      {
+        "kind": "Art&Design",
+        "banner": "/img/pc/onoff-slider4.webp",
+        "title": "初心者向け油絵デビュー講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-5.svg",
+        "graph": "/img/pc/graph-3.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      },
+      {
+        "kind": "Wine",
+        "banner": "/img/pc/onoff-slider5.avif",
+        "title": "ワインテイスティング講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-2.svg",
+        "graph": "/img/pc/graph-2.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "充実の初心者向け講座",
+    "items": [
+      {
+        "kind": "Bridal",
+        "banner": "/img/pc/beginner1.webp",
+        "title": "もう迷わない婚活講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-4.svg",
+        "graph": "/img/pc/graph-1.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      },
+      {
+        "kind": "Music",
+        "banner": "/img/pc/beginner2.avif",
+        "title": "イチから始めるフルート講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-5.svg",
+        "graph": "/img/pc/graph-2.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      },
+      {
+        "kind": "Dance",
+        "banner": "/img/pc/beginner3.avif",
+        "title": "初心者でも踊れるフラダンス講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-3.svg",
+        "graph": "/img/pc/graph-2.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      },
+      {
+        "kind": "Fashion",
+        "banner": "/img/pc/beginner4.webp",
+        "title": "初めての着付け講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-5.svg",
+        "graph": "/img/pc/graph-3.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      },
+      {
+        "kind": "Programming",
+        "banner": "/img/pc/beginner5.avif",
+        "title": "初めてのプログラミング講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-2.svg",
+        "graph": "/img/pc/graph-2.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      },
+      {
+        "kind": "Bridal",
+        "banner": "/img/pc/beginner1.webp",
+        "title": "もう迷わない婚活講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-4.svg",
+        "graph": "/img/pc/graph-1.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      },
+      {
+        "kind": "Music",
+        "banner": "/img/pc/beginner2.avif",
+        "title": "イチから始めるフルート講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-5.svg",
+        "graph": "/img/pc/graph-2.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      },
+      {
+        "kind": "Dance",
+        "banner": "/img/pc/beginner3.avif",
+        "title": "初心者でも踊れるフラダンス講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-3.svg",
+        "graph": "/img/pc/graph-2.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      },
+      {
+        "kind": "Fashion",
+        "banner": "/img/pc/beginner4.webp",
+        "title": "初めての着付け講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-5.svg",
+        "graph": "/img/pc/graph-3.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      },
+      {
+        "kind": "Programming",
+        "banner": "/img/pc/beginner5.avif",
+        "title": "初めてのプログラミング講座",
+        "user_avatar": "/img/common/person1.png",
+        "user_role": "コンサルタント",
+        "user_name": "大友 裕二",
+        "ranking_icon": "/img/common/workshop-star-2.svg",
+        "graph": "/img/pc/graph-2.svg",
+        "contents": [
+          {
+            "label": "コース",
+            "value": "初心者コース"
+          },
+          {
+            "label": "費用",
+            "value": "58,000円"
+          },
+          {
+            "label": "回数",
+            "value": "全12回"
+          },
+          {
+            "label": "期間",
+            "value": "2020/9/1~2021/2/1"
+          },
+          {
+            "label": "動画記録",
+            "value": "あり"
+          },
+          {
+            "label": "特典",
+            "value": "特典内容が入ります。特典内容が入ります。特典内容が入ります。"
+          }
+        ]
+      }
+    ]
+  }
+]

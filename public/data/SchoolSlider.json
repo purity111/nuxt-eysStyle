@@ -1,0 +1,44 @@
+[
+  {
+    "titleEn": "Music",
+    "titleJp": "音楽",
+    "imgUrl": "/img/common/music-slider.webp",
+    "logo": "/img/common/logo-eys.svg",
+    "imgHeight": 265
+  },
+  {
+    "titleEn": "Wine",
+    "titleJp": "ワイン",
+    "imgUrl": "/img/common/wine-slider.avif",
+    "logo": "/img/common/logo-wine-2.webp",
+    "imgHeight": 265
+  },
+  {
+    "titleEn": "Business",
+    "titleJp": "ビジネス",
+    "imgUrl": "/img/common/business-slider.webp",
+    "logo": "/img/common/logo-eys.svg",
+    "imgHeight": 265
+  },
+  {
+    "titleEn": "Programming",
+    "titleJp": "ハイエンドプログラミング",
+    "imgUrl": "/img/common/program-slider.avif",
+    "logo": "/img/common/logo-eys.svg",
+    "imgHeight": 265
+  },
+  {
+    "titleEn": "Investment",
+    "titleJp": "投資",
+    "imgUrl": "/img/common/invest-slider.avif",
+    "logo": "/img/common/logo-eys.svg",
+    "imgHeight": 265
+  },
+  {
+    "titleEn": "Art&Design",
+    "titleJp": "アート＆デザイン",
+    "imgUrl": "/img/common/art-slider.webp",
+    "logo": "/img/common/logo-eys.svg",
+    "imgHeight": 265
+  }
+]

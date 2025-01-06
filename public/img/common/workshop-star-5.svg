@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="40.55" viewBox="0 0 65 40.55">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1.213" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8ff"/>
+      <stop offset="1" stop-color="#d8f"/>
+    </linearGradient>
+    <filter id="S" x="8.5" y="5.55" width="25" height="35" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="star" transform="translate(-323 -1816)">
+    <path id="star-2" data-name="star" d="M21.028,0l-6.5,13.19L0,15.292,10.513,25.52,8.028,40l13-6.834,13,6.834L31.541,25.52,42.055,15.292l-14.528-2.1Z" transform="translate(323 1816)" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, 323, 1816)" filter="url(#S)">
+      <text id="S-2" data-name="S" transform="translate(21 27.05)" fill="#fff" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-4.204" y="0">S</tspan></text>
+    </g>
+    <text id="_5.0" data-name="5.0" transform="translate(376 1844.05)" fill="#9be" font-size="16" font-family="SegoeUI-BoldItalic, Segoe UI" font-weight="700" font-style="italic"><tspan x="-11.387" y="0">5.0</tspan></text>
+  </g>
+</svg>
