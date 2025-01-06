@@ -4,7 +4,7 @@
     style="z-index: -1"
   >
     <img
-      class="top-0 z-[-1] hidden lg:block"
+      class="top-0 z-[-1] hidden lg:block w-[375px] h-[790px] lg:w-[1920px] lg:h-[1200px]"
       src="/img/pc/fv.avif"
       alt="ファーストビュー"
       loading="lazy"

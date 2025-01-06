@@ -1,13 +1,3 @@
-<script setup lang="ts">
-import { defineProps } from "vue";
-
-const props = defineProps<{
-  price?: number;
-  mon?: number;
-  day?: number;
-}>();
-</script>
-
 <template>
   <div
     class="mt-[15px] lg:mt-[40px] relative bg-[url('/img/sp/bg-imgs.avif')] lg:bg-[url('/img/pc/bg-imgs.avif')] about-bg"

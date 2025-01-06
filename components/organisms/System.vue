@@ -1,12 +1,5 @@
 <template>
-  <div class="mt-[110px]">
-    <img
-      class="w-[150px] m-auto hidden lg:block pb-[40px]"
-      src="/img/common/system-art.png"
-      alt="アートタイトル"
-      loading="lazy"
-      decoding="async"
-    />
+  <div class="">
     <h2 class="text-center text-[18px] lg:text-[32px]">
       “本気度”自由自在！<br />
       様々な通い方をご用意しています

@@ -1,12 +1,5 @@
 <template>
-  <div class="bg-[#F9F9F9]">
-    <img
-      class="w-[118px] m-auto pt-[30px] pb-[50px] lg:w[175px] lg:pt-[55px] lg:pb-[80px]"
-      src="/img/common/main-logo.png"
-      alt="フッターロゴ"
-      loading="lazy"
-      decoding="async"
-    />
+  <div class="">
     <div
       class="border border-l-0 border-r-0 mx-[10px] border-[#DDDDDD] py-[20px] lg:py-[25px] lg:w-[1000px] lg:m-auto text-center text-[18px] lg:text-[20px] font-medium lg:border-b-0"
     >

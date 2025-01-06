@@ -1,12 +1,5 @@
 <template>
-  <div
-    class="w-full mt-[165px] max-lg:mt-[71px] max-lg:max-w-[375px] max-lg:mx-auto overflow-hidden bg-contain bg-no-repeat bg-top"
-  >
-    <img
-      src="/img/common/community-title.svg"
-      alt="community"
-      class="w-[443px] mx-auto max-lg:w-[275px]"
-    />
+  <div>
     <h5
       class="mt-[40px] text-[40px] font-medium text-center leading-[70px] max-lg:text-lg max-lg:mt-[15px]"
     >

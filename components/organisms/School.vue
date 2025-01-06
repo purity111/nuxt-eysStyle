@@ -1,21 +1,5 @@
 <template>
   <div class="school-slider">
-    <AtomsArtTitle
-      :height="40"
-      :distance="30"
-      :fSize="18"
-      :imgUrl="'/img/common/school-art.webp'"
-      :text="'EYS-STYLEが運営する<br>Enjoy Your Life 実現のためのスクール'"
-      class="pt-[65px] pb-[45px] lg:hidden"
-    />
-    <AtomsArtTitle
-      :height="62"
-      :distance="42"
-      :fSize="40"
-      :imgUrl="'/img/common/school-art.webp'"
-      :text="'EYS-STYLEが運営する<br>Enjoy Your Life 実現のためのスクール'"
-      class="pt-[160px] pb-[75px] hidden lg:block"
-    />
     <div class="relative">
       <div class="school-swiper-button-prev">
         <img
