@@ -47,7 +47,6 @@
         </SwiperSlide>
       </Swiper>
     </div>
-    <MoleculesLesson class="mt-[50px] lg:mt-[70px] lg:mt-[90px]" />
   </div>
 </template>
 
